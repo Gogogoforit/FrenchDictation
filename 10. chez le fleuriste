@@ -12,11 +12,11 @@ A:- Bonjour, monsieur. Je peux vous aider?
 
 D:- Oui, je voudrais un picket. Mais je ne sais pas trop qu'quelle de choisir.
 A:- Oui, je voudrais un bouquet. Mais je ne sais pas trop quoi choisir.
-NB: un bouquet
+NB: un bouquet (bouquet)
 
 D:- Vous le mettez combien apres?
 A:- Vous voulez mettre combien, à peu près?
-NB: à peu près
+NB: à peu près (à peu près)
 
 D:- Ou, je ne sais pas. Peut-etre quinze vingt euros.
 A:- Ou, je ne sais pas. Peut-être quinze vingt euros.
@@ -24,14 +24,17 @@ A:- Ou, je ne sais pas. Peut-être quinze vingt euros.
 
 D:- Bon, regardez. On Prefere un picket a rouge-blonde, joli.     
 	Ou alors, vous pouvez aussi chosir un picket rouge.
-A:- Regardez. On peut faire un bouquet rouge et blonc, c'est très joli.     
+A:- Regardez. On peut faire un bouquet rouge et blanc, c'est très joli.     
 	Ou alors, vous pouvez aussi choisir un bouquet tout rouge.
 
 D:- J'hesitate un peu. Qu'est-ce que vous me conseillez?
 A:- J'hésite un peu. Qu'est-ce que vous me conseillez?
+NB: hésiter(hesitate)
 
 D:- C'est a un personne? c'est pour offrir?
 A:- ça dépend de la personne? c'est pour offrir?
+NB: ça dépend de XXX (It depends on XXX)
+
 
 D:- Oui, c'est pour ma grand mere. 
 A:- Oui, c'est pour ma grand-mère. 
